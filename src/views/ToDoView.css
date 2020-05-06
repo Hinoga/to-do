@@ -1,0 +1,54 @@
+body {
+  background-color: #eaeff5;
+}
+
+.app {
+  background-color: white;
+  width: 600px;
+  margin: 40px auto;
+}
+
+.form input {
+  background-color: #eaeff5;
+  border: 0;
+  width: 400px;
+  height: 40px;
+  padding: 0 20px;
+  margin: 20px;
+  font-size: 16px;
+  border-radius: 6px;
+}
+
+.form button {
+  height: 40px;
+  width: 90px;
+  border: 0;
+  border-radius: 6px;
+  background-color: #28a745;
+  cursor: pointer;
+  font-weight: bolder;
+}
+
+.list {
+  width: 500px;
+  background-color: #eaeff5;
+  height: 50px;
+  margin: 10px auto;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.list p {
+  padding: 13px;
+}
+
+.list p input {
+  height: 15px;
+  width: 15px;
+  cursor: pointer;
+}
+
+.itemDone {
+  text-decoration: line-through;
+  font-style: italic;
+}
